@@ -1,0 +1,3 @@
+ Reminder: Alice (Customer ID: 1) — your Loan ID 101 is due on 05-JUL-2025
+ Reminder: Charlie (Customer ID: 3) — your Loan ID 103 is due on 30-JUN-2025
+
